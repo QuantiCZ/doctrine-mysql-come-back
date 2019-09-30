@@ -2,7 +2,7 @@
 
 namespace Facile\DoctrineMySQLComeBack\Doctrine\DBAL;
 
-use Doctrine\DBAL\Connection as DBALConnection;
+use Kdyby\Doctrine\Connection as DBALConnection;
 
 /**
  * Class Connection.
